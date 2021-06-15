@@ -257,10 +257,10 @@ html{
     border-radius: 5px;
     background-color: #4458dc;
     color: white;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     border: 2px solid #4458dc;  
     text-decoration: none; 
-    
+    margin-left: 1.5rem;
 }
 .resume:hover{
     background: none;
@@ -404,6 +404,38 @@ html{
     opacity: .8;
     
 }
+
+#project1 h1{
+    font-family: 'rubik';
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 2.3rem;
+}
+#project1 h2{
+    font-family: 'rubik';
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+#project1 p{
+     font-family: 'rubik';
+     opacity: .7;
+}
+#project1 a{
+    text-transform: uppercase;
+    font-family: 'rubik';
+    font-size: 1.2rem;
+}
+.card{
+    border-radius: 30px !important;
+    box-sizing: border-box !important;
+    overflow: hidden !important;
+    background-color: #e7eff0 !important;
+    border: .3px solid #e7eff0 !important;
+}
+
+
+
+
 /*----------------------- media query------------- */
 
 

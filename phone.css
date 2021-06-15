@@ -144,4 +144,27 @@
     }
 
 
+
+#project1 a{
+    font-size: .8rem;
+}
+#project1 p{
+    font-size: .8rem;
+}
+#project1 h2{
+    font-size: 1.2rem;
+}
+#project1 h1{
+   font-size: 1.8rem;
+}
+#project1{
+    box-sizing: border-box !important;
+    overflow: hidden !important;
+}
+.card{
+    width: 21rem !important;
+}
+.card img{
+    width: 338px !important;
+}
 }
