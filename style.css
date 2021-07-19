@@ -50,7 +50,7 @@ html{
     
 }
 #item-1 li a{
-    margin: 2rem;
+    margin: 1rem;
     font-family: 'rubik';
     font-weight: bold;
     position: relative;
@@ -275,7 +275,7 @@ html{
 }
 
 .call-now span:nth-child(3){
-    margin-left: 5rem;
+    margin-left: 4rem;
 }
 .call-now span{
     margin-left: .6rem;
@@ -402,7 +402,7 @@ html{
     font-size: 2rem;
     color: black;
     opacity: .8;
-    
+    margin-bottom: 5rem;
 }
 
 #project1 h1{
